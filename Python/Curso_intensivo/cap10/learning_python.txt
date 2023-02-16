@@ -1,0 +1,3 @@
+Em Python podemos escrever codigos elegantes e de facil leitura;
+Em Python podemos criar variaveis de tipagem fraca, ou seja, nao informamos o tipo de dado;
+Em Python podemos estruturas de dados dentro de outras estruturas e essas estruturas podem ter varios niveis.
