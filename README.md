@@ -37,15 +37,18 @@ A pasta [SQL]() é utilizada para scripts de códigos desenvolvidos durante os e
 
 
 # Power BI
+A pasta [Power BI](https://github.com/DeyvedAntonio/Estudos_Analista/tree/main/Power%20BI) é utilizada para arquivos de estudos e visualização de dados na ferramenta Power BI da Microsoft. Os arquivos com a extensão em .pbix deverão ser abertos no Power BI Desktop.
+
 ![](https://img.shields.io/badge/Microsoft-Power%20BI-blue?style=plastic&logo=Microsoft)
 
 ## Sobre o projeto
-A pasta [Power BI](https://github.com/DeyvedAntonio/Estudos_Analista/tree/main/Power%20BI) é utilizada para arquivos de estudos e visualização de dados na ferramenta Power BI da Microsoft. Os arquivos com a extensão em .pbix deverão ser abertos no Power BI Desktop.
+Projeto de cotação de moedas. Esse projeto tem a finalidade de praticar conceitos. Buscar, [API do Banco Central](https://dadosabertos.bcb.gov.br/dataset/dolar-americano-usd-todos-os-boletins-diarios/resource/ae69aa94-4194-45a6-8bae-12904af7e176), o histórico da cotação do dólar para análise futuras de melhores momentos para compra da moeda americana.
+As moedas serão Dólar americano, Dólar canadense e Euro. Período todo o ano de 2022 e janeiro e fevereiro de 2023.
 
 ## Layout dos Dashboards
 
 ## Competências
-
+- Conectar e buscar dados de uma API.
 
 ## Pré-requisitos
 - Microsft Power BI
@@ -56,7 +59,7 @@ A pasta [Power BI](https://github.com/DeyvedAntonio/Estudos_Analista/tree/main/P
 ### Técnicas utilizadas
 
 >As técnicas utilizadas foram:
--
+- ETL (**Extração**: da API do Banco Central; **Transformação**: transformar os valores, da cotação de vendas, em decimal; **Carregamento**: salvar no Power BI em formato de tabelas.
 
 
 ### Integrações
